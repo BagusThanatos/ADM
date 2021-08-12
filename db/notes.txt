@@ -1,0 +1,7 @@
+Would probably need these tables:
+1. Airflow clusters: Containing data regarding airflow hosts: ip, and respective airflow folders. Maybe will also need keys for copying generated files
+2. Templates: Contains DAG templates
+3. DAG: actual dag data. Will be used to generate DAGs.
+4. Users: if we want some sort of auth and permission levels
+5. history tables: changes for some of the tables. Necessary for auditing
+6. 
