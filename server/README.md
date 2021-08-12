@@ -22,3 +22,5 @@ POSTGRES_DB
 
 2. For logging
 - go.uber.org/zap
+
+3. Will need something to copy result to remote host
